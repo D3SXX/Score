@@ -5,7 +5,6 @@
 // 2. Data structure definitions
 // 3. Function prototypes (aka. function declaration)
 #include <stdio.h>
-//Defining max as 30
 #define MAX 30
 
 void input_scores(int[]);
